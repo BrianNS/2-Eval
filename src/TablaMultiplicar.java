@@ -10,7 +10,7 @@ public class TablaMultiplicar {
 		System.out.println("Introduce un número: ");
 		n = tec.nextInt();
 		
-		/Calcular la multiplicación
+		//Calcular la multiplicación
 		System.out.println("tabla del "+n);
 		for(int i = 1; i <= 10; i++){
 			System.out.println(n+ " * "+i+ " = " +n*i);
